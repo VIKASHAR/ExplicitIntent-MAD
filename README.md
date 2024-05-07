@@ -209,9 +209,9 @@ public class MainActivity2 extends AppCompatActivity {
 
 ## OUTPUT:
 
-![image](https://github.com/VIKASHAR/ExplicitIntent-MAD/assets/119405655/a0302c9a-d7ac-4f5b-af48-9b97a30ac534)
+![Screenshot 2024-05-07 182037](https://github.com/VIKASHAR/ExplicitIntent-MAD/assets/119405655/f28db68d-7805-4bcc-ae25-a2275772eb51)
+![Screenshot 2024-05-07 182023](https://github.com/VIKASHAR/ExplicitIntent-MAD/assets/119405655/6cfb5328-a9a1-472e-96bc-a6e633775b8c)
 
-![image](https://github.com/VIKASHAR/ExplicitIntent-MAD/assets/119405655/3825b8b2-609b-4b95-9f01-3c11a05d6c84)
 
 
 ## RESULT
